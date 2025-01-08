@@ -1,4 +1,4 @@
-# Sentiment Analysis of Shin Tae-Yong Dismissal Project 🎯
+# Sentiment Analysis of Shin Tae-Yong Dismissal Project🎯
 
 ## Overview 📚
 This project was created based on the dismissal of Shin Tae Yong as head coach of the Indonesian national football team on Monday, January 6th 2025. This project aims to understand and assess public opinion sentiment on social media x. This project uses the Python Library TextBlob & Natural Language Toolkit, viz, NLTK Sentiment Vader SentimentIntensityAnalyzer.
