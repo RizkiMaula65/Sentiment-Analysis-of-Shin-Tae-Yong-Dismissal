@@ -27,4 +27,3 @@ Based on the word cloud, the words “Shin Tae Yong” and “Indonesia National
 
 ## Kontribusi🤝
 Contributions and suggestions are greatly appreciated. Please submit a pull request if you would like to contribute to this project.
-
