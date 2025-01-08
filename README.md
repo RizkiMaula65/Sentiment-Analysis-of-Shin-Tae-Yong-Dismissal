@@ -19,8 +19,11 @@ This project was created based on the dismissal of Shin Tae Yong as head coach o
 * `matplotlib`
 
 ## Results 📈
-Dari 884 opini yang dikumpulkan pada sosial media x, hasil analisis sentimen menunjukkan bahwa 40.6% (359 twit) opini bersentimen positif, 38.8% (343 twit) opini bersentimen negatif, dan 20.6% (182) bersentimen netral. Adapun visualisasi dari analisis tersebut dapat diamati pada gambar berikut.  
-![Pie Chart](OutputProject/piechart.png)
+![Pie Chart](OutputProject/piechart.png)  
+Based on the piechart, of the 884 opinions collected on social media x, the sentiment analysis results show that 40.6% (359 tweets) of opinions are positive, 38.8% (343 tweets) of opinions are negative, and 20.6% (182) of opinions are neutral. This result shows that the change of coach or the dismissal of Shin Tae-yong gave a mixed response as shown by the small difference between positive and negative responses (not dominated by one sentiment).
+
+![Pie Chart](OutputProject/wordcloud.png)   
+Based on the word cloud, the words “Shin Tae Yong” and “Indonesia National Team” are the most dominant words that show great attention to Shin Tae-Yong's coaching of the Indonesian national team. Then, the words “Erick Tohir” and “PSSI” are also words that often appear in opinions. This shows that Erick Tohir as the chairman of PSSI and PSSI as the Indonesian football federation became the center of attention of the policy he took in making a coaching change. Furthermore, the word “World Cup” is also dominant in opinion which shows public attention to the policy of changing coaches made in the midst of world cup qualifications. In addition, the word “Patrick Kluivert” is also one of the most dominant which shows public attention to one of the names rumored to replace Shin Tae-Yong.
 
 ## Kontribusi 🤝
 Contributions and suggestions are greatly appreciated. Please submit a pull request if you would like to contribute to this project.
